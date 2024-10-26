@@ -1,6 +1,6 @@
 Statistical mechanics is a branch of physics that uses probability theory and statistical methods to explain the behavior of large systems composed of many particles, typically in terms of microscopic properties. It connects microscopic particle behavior with macroscopic observables, like temperature, pressure, and entropy, bridging the gap between microscopic laws of physics (like Newton’s or Schrödinger’s equations) and macroscopic thermodynamic phenomena.
 
-Here are some of the main concepts in statistical mechanics:
+# The main concepts in statistical mechanics:
 
 ### 1. **Microstates and Macrostates**
    - **Microstate**: Each unique arrangement or state of particles within a system. In classical mechanics, a microstate is defined by the exact positions and momenta of all particles. In quantum mechanics, it’s defined by the quantum states of each particle.
