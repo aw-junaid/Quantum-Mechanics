@@ -26,3 +26,16 @@ at.
 </div>
 
 ###
+
+## Important Repositories: 
+
+- [quantum](https://github.com/bloomberg/quantum): **Powerful multi-threaded coroutine dispatcher and parallel execution engine.**
+- [openqasm](https://github.com/openqasm/openqasm): **Quantum assembly language for extended quantum circuits.**
+- [QMPython](https://github.com/mholtrop/QMPython): **Quantum Mechanics and Schrodinger Equation Solvers in Python.**
+- [Q](https://github.com/theerfan/Q): **My attempt at researching Quantum Mechanics & Quantum Computing when I was a junior.**
+- [quantum-game](https://github.com/stared/quantum-game): **Quantum Game (old version) - a puzzle game with real quantum mechanics in a browser.**
+- [quantum-mechanics](https://github.com/osscar-org/quantum-mechanics): **A collection of interactive notebooks to explain concepts of quantum mechanics and related topics.**
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse): **Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.**
+- [QuantumKatas](https://github.com/microsoft/QuantumKatas): **Tutorials and programming exercises for learning Q# and quantum computing.**
+
+---
