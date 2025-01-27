@@ -3,7 +3,7 @@
 ---
 
 ### **1. Classical Mechanics**
-- Newton's laws of motion
+- [Newton's laws of motion](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Applied%20Physics/Course/Newton's%20laws%20of%20motion.md)
 - Work, energy, and power
 - Conservation laws: linear momentum, angular momentum, and energy
 - Oscillations and waves
