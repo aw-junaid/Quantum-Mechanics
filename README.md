@@ -37,11 +37,9 @@ at.
 - [Videos](#videos)
 - [Community](#community)
 - [Podcasts](#podcasts)
-- [Content in Non-English Languages](#content-in-non-english-languages)
-
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
-# Important Repositories: 
+## Important Repositories: 
 
 - [quantum](https://github.com/bloomberg/quantum): **Powerful multi-threaded coroutine dispatcher and parallel execution engine.**
 - [openqasm](https://github.com/openqasm/openqasm): **Quantum assembly language for extended quantum circuits.**
@@ -213,9 +211,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Podcast by Ethan Hansen covering three main topics: the basics of quantum computing, interviews and the latest news.
 - [The Qubit Guy's Podcast](https://www.classiq.io/insights#podcasts) - Podcast by Yuval Boger from [Classiq Technologies](https://www.classiq.io) featuring thought leaders from the quantum computing industry.
 
-## Content in Non-English Languages
-
-- [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
 
 ## License
 
