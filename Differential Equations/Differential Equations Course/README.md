@@ -1,21 +1,21 @@
 # Differential Equations
 
 ### **Course Objectives**:
-1. Understand the fundamental concepts of differential equations and their applications.
-2. Develop skills to solve various types of differential equations analytically and numerically.
-3. Apply differential equations to model real-world problems in physics, engineering, biology, economics, and other fields.
-4. Gain familiarity with qualitative and quantitative analysis of differential equations.
+1. [Understand the fundamental concepts of differential equations and their applications.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Understand%20the%20fundamental%20concepts%20of%20differential%20equations%20and%20their%20applications.md)
+2. [Develop skills to solve various types of differential equations analytically and numerically.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Develop%20skills%20to%20solve%20various%20types%20of%20differential%20equations%20analytically%20and%20numerically.md)
+3. [Apply differential equations to model real-world problems in physics, engineering, biology, economics, and other fields.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Apply%20differential%20equations%20to%20model%20real-world%20problems%20in%20physics%2C%20engineering%2C%20biology%2C%20economics%2C%20and%20other%20fields.md)
+4. [Gain familiarity with qualitative and quantitative analysis of differential equations.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Gain%20familiarity%20with%20qualitative%20and%20quantitative%20analysis%20of%20differential%20equations.md)
 
 ### **Course Content**:
 
 #### **1. Introduction to Differential Equations**
-   - Definition and classification of differential equations (ODEs, PDEs, order, linearity).
-   - Solutions: general, particular, and singular solutions.
-   - Initial value problems and boundary value problems.
-   - Direction fields and qualitative analysis.
+   - [Definition and classification of differential equations (ODEs, PDEs, order, linearity).](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Definition%20and%20classification%20of%20differential%20equations%20(ODEs%2C%20PDEs%2C%20order%2C%20linearity).md)
+   - [Solutions: general, particular, and singular solutions.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Solutions%3A%20general%2C%20particular%2C%20and%20singular%20solutions.md)
+   - [Initial value problems and boundary value problems.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Initial%20value%20problems%20and%20boundary%20value%20problems.md)
+   - [Direction fields and qualitative analysis.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Direction%20fields%20and%20qualitative%20analysis.md)
 
 #### **2. First-Order Differential Equations**
-   - Separable equations.
+   - [Separable equations.](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Differential%20Equations/Differential%20Equations%20Course/Course/Separable%20equations.md)
    - Linear equations and integrating factors.
    - Exact equations and integrating factors.
    - Applications: population growth, radioactive decay, mixing problems, etc.
