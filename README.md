@@ -7,9 +7,9 @@ at.
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilises quantum mechanical phenomenon such as entanglement and superposition to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them. 
 
-## Connect With Me
+## Contact With Me:
 
-<div align="left">
+
   <a href="https://www.youtube.com/@awjunaid/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
   </a>
@@ -31,7 +31,6 @@ at.
   <a href="https://discord.gg/Neddn8gPqY" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
   </a>
-</div>
 
 ## Contents
 
