@@ -26,22 +26,22 @@
 21. [Slope](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Slope.md)
 22. [Polynomials](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Polynomials.md)
 23. [**Matrices**](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Matrices.md)
-24. Complex Numbers
-25. Logarithms
-26. Geometry
-27. Trigonometry
-28. Radian
-29. Unit Circle
-30. Trig Functions
-31. Hyperbolic Functions
-32. Statistics
-33. Calculus
-34. Limits
-35. Differentiation
-36. Integration
-37. Parametric Equations
-38. Polar Coordinates
-39. Optimization
+24. [Complex Numbers](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Complex%20Numbers.md)
+25. [Logarithms](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Logarithms.md)
+26. [Geometry](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Geometry.md)
+27. [Trigonometry](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Trigonometry.md)
+28. [Radian](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Radian.md)
+29. [Unit Circle](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Unit%20Circle.md)
+30. [Trig Functions](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Trig%20Functions.md)
+31. [Hyperbolic Functions](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Hyperbolic%20Functions.md)
+32. [Statistics](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Statistics.md)
+33. [Calculus](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Calculus.md)
+34. [Limits](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Limits.md)
+35. [Differentiation](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Differentiation.md)
+36. [Integration](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Integration.md)
+37. [Parametric Equations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Parametric%20Equations.md)
+38. [Polar Coordinates](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Polar%20Coordinates.md)
+39. [Optimization](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Optimization.md)
 40. Vectors
 41. Series
 42. Inverse Chain Rule
