@@ -1,31 +1,31 @@
 # **Mathematics Trench**
 
 #### **Basic Mathematics (Top Layer - "Human")**
-1. Counting
-2. Addition
-3. Subtraction
-4. Multiplication
-5. Division
-6. Basic Geometry
-7. Order of Operations
-8. Negative Numbers
-9. Factors
-10. Decimals
-11. Fractions
-12. Powers
-13. Radicals
-14. Cartesian Coordinates
-15. Data Plots
-16. Irrational Numbers
-17. Variables
-18. Equations
-19. Functions
+1. [Counting](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Counting.md)
+2. [Addition](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Addition.md)
+3. [Subtraction](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Subtraction.md)
+4. [Multiplication](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Multiplication.md)
+5. [Division](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Division.md)
+6. [Basic Geometry](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Basic%20Geometry.md)
+7. [Order of Operations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Order%20of%20Operations.md)
+8. [Negative Numbers](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Negative%20Numbers.md)
+9. [Factors](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Factors.md)
+10. [Decimals](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Decimals.md)
+11. [Fractions](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Fractions.md)
+12. [Powers](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Powers.md)
+13. [Radicals](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Radicals.md)
+14. [Cartesian Coordinates](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Cartesian%20Coordinates.md)
+15. [Data Plots](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Data%20Plots.md)
+16. [Irrational Numbers](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Irrational%20Numbers.md)
+17. [Variables](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Variables.md)
+18. [Equations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Equations.md)
+19. [Functions](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Functions.md)
 
 #### **Intermediate Mathematics ("Serious Math")**
-20. Elementary Algebra
-21. Slope
-22. Polynomials
-23. Matrices
+20. [Elementary Algebra](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Elementary%20Algebra.md)
+21. [Slope](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Slope.md)
+22. [Polynomials](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Polynomials.md)
+23. [**Matrices**](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Matrices.md)
 24. Complex Numbers
 25. Logarithms
 26. Geometry
