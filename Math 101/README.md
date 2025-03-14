@@ -42,15 +42,15 @@
 37. [Parametric Equations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Parametric%20Equations.md)
 38. [Polar Coordinates](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Polar%20Coordinates.md)
 39. [Optimization](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Optimization.md)
-40. Vectors
-41. Series
-42. Inverse Chain Rule
-43. Taylor Series
-44. Multivariable Calculus
-45. Triple Integrals
-46. Vector Calculus
-47. Differential Equations
-48. Partial Differential Equations
+40. [Vectors](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Vectors.md)
+41. [Series](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Series.md)
+42. [Inverse Chain Rule](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Inverse%20Chain%20Rule.md)
+43. [Taylor Series](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Taylor%20Series.md)
+44. [Multivariable Calculus](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Multivariable%20Calculus.md)
+45. [Triple Integrals](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Triple%20Integrals.md)
+46. [Vector Calculus](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Vector%20Calculus.md)
+47. [Differential Equations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Differential%20Equations.md)
+48. [Partial Differential Equations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Partial%20Differential%20Equations.md)
 49. Stokes' Theorem
 50. Divergence Theorem
 51. S-L Problems
