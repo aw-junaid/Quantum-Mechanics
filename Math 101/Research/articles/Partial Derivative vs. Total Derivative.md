@@ -1,5 +1,5 @@
 ### **Partial Derivative vs. Total Derivative**
-
+ 
 #### **1. Partial Derivative**
 A **partial derivative** is used when a function has multiple variables, but we differentiate with respect to only one variable while keeping the others constant.
 
