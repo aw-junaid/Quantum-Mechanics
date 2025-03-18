@@ -1,30 +1,43 @@
 
-### 1. Do Photons Have Mass?
-
-- **Rest Mass vs. Relativistic Mass:**  
-  Photons—the particles of light—are considered to have zero *rest mass*. This means that when they are at rest (hypothetically, though photons always move at the speed of light), they have no mass. However, the term *relativistic mass* (an older concept) was once used to describe the mass a particle appears to have when in motion. In modern physics, we focus on *rest mass* (which is zero for photons) while acknowledging that photons carry energy and momentum.
-
-- **Energy and Momentum:**  
-  Photons have energy given by the equation:  
-  > E = hν  
-  where *h* is Planck’s constant and *ν* (nu) is the frequency of the light.  
-  They also have momentum even though their rest mass is zero, following:  
-  > p = E/c  
-  This energy and momentum allow light to interact with matter and even be influenced by gravity.
+### **1. Light (Photons) and Mass**
+- **Photons are massless:** According to the Standard Model of particle physics, photons (particles of light) have **zero rest mass**. They always travel at the speed of light $(\( c \))$ in a vacuum.
+- **But they carry energy and momentum:** A photon’s energy is tied to its frequency $(\( E = h\nu \)$, where $\( h \)$ is Planck’s constant). Even without mass, photons exert radiation pressure and interact gravitationally (via their energy).
 
 ---
 
-### 2. Mass-Energy Equivalence and Light
-
-- **Einstein’s Equation (E = mc²):**  
-  According to Einstein’s famous equation, energy and mass are interchangeable. This means that the energy carried by a photon is equivalent to a certain amount of mass:
-  
-  > $m_equiv = E/c²$  
- 
-  This *equivalent mass* isn’t the same as the intrinsic mass (rest mass) that particles like electrons have. Rather, it’s a way of quantifying the energy of the photon in mass units. So while a photon is massless in terms of rest mass, its energy can be thought of as having a “mass equivalent.”
-
-- **Gravitational Effects:**  
-  Because light carries energy and momentum, it is affected by gravity. This is why light bends around massive objects—a phenomenon known as gravitational lensing. The bending occurs because gravity curves spacetime, and photons travel along these curves, even though they don't have rest mass.
+### **2. Mass-Energy Equivalence $(\( E = mc^2 \))$**
+Einstein’s equation shows that **mass is a form of energy**, and energy can behave like mass:
+- **Mass → Light:** When mass is converted into energy (e.g., nuclear fusion in stars, particle-antiparticle annihilation), some of that energy emerges as light.
+  - Example: The Sun loses ~4 million tons of mass per second via fusion, releasing energy (including sunlight).
+- **Light → Effective "Mass":** While photons lack rest mass, their energy contributes to the **relativistic mass** $(\( E/c^2 \))$ in systems. For example:
+  - A box of light has more inertia (resistance to motion) due to the photons’ energy.
 
 ---
 
+### **3. Gravitational Interaction Between Light and Mass**
+- **Light bends around mass:** General relativity predicts that massive objects (like stars, black holes) warp spacetime, deflecting the path of light (**gravitational lensing**).
+- **Light affects spacetime:** Though photons are massless, their energy contributes to the stress-energy tensor in Einstein’s equations, influencing spacetime curvature.
+
+---
+
+### **4. When Mass Becomes Light**
+- **Particle Annihilation:** When matter (e.g., an electron) and antimatter (e.g., a positron) collide, their mass is entirely converted into energy, often as gamma-ray photons:
+  $\[
+  e^- + e^+ \rightarrow 2\gamma \quad (\text{energy} = 2m_e c^2).
+  \]$
+- **Black Hole Evaporation:** Via **Hawking radiation**, black holes emit particles (including photons) by quantum effects near their event horizons, slowly losing mass.
+
+---
+
+### **5. Common Misconceptions**
+- **"Light has mass":** No—photons are massless, but their energy and momentum mimic some properties of mass.
+- **"Mass turns into light":** Only a fraction of mass-converted energy becomes light; other forms (kinetic energy, heat) are also involved.
+
+---
+
+### **Key Takeaways**
+- **Light itself is massless**, but it carries energy and momentum derived from mass-energy equivalence.
+- **Mass can transform into light** (and vice versa) under extreme conditions, governed by $\( E = mc^2 \)$.
+- **Gravity links them**: Mass warps spacetime, bending light, while light’s energy influences spacetime’s structure.
+
+This interplay defines phenomena from starlight to the universe’s evolution, bridging relativity and quantum mechanics. 
