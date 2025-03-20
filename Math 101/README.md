@@ -51,14 +51,14 @@
 46. [Vector Calculus](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Vector%20Calculus.md)
 47. [Differential Equations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Differential%20Equations.md)
 48. [Partial Differential Equations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Partial%20Differential%20Equations.md)
-49. Stokes' Theorem
-50. Divergence Theorem
-51. S-L Problems
-52. Tensors
-53. Vector Spaces
-54. Jordan Normal Form
-55. Linear Transformations
-56. Eigenvalues
+49. [Stokes' Theorem](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Stokes'%20Theorem.md)
+50. [Divergence Theorem](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/Divergence%20Theorem.md)
+51. [S-L Problems](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/2/S-L%20Problems.md)
+52. [Tensors](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/2/Tensors.md)
+53. [Vector Spaces](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/2/Vector%20Spaces.md)
+54. [Jordan Normal Form](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/2/Jordan%20Normal%20Form.md)
+55. [Linear Transformations](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/2/Linear%20Transformations.md)
+56. [Eigenvalues](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/Math%20101/articles/2/Eigenvalues.md)
 57. Eigenvectors
 58. Fourier Series
 59. Laplace Transforms
