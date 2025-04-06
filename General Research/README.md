@@ -5,3 +5,4 @@
 - [How the Banach-Tarski Paradox Shatters Our Intuition About Volume
 ](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/How%20the%20Banach-Tarski%20Paradox%20Shatters%20Our%20Intuition%20About%20Volume.md)
 - [Visualizing the Banach-Tarski Paradox](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/Visualizing%20the%20Banach-Tarski%20Paradox.md)
+- [Visualizing the Banach-Tarski Paradox1](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/Visualizing%20the%20Banach-Tarski%20Paradox1.md)
