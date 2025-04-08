@@ -6,3 +6,6 @@
 ](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/How%20the%20Banach-Tarski%20Paradox%20Shatters%20Our%20Intuition%20About%20Volume.md)
 - [Visualizing the Banach-Tarski Paradox](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/Visualizing%20the%20Banach-Tarski%20Paradox.md)
 - [Visualizing the Banach-Tarski Paradox1](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/Visualizing%20the%20Banach-Tarski%20Paradox1.md)
+- [The Gravitational Constant (G): A Finely-Tuned Force Shaping the Cosmos](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/The%20Gravitational%20Constant%20(G)%3A%20A%20Finely-Tuned%20Force%20Shaping%20the%20Cosmos.md)
+- [The Weak Nuclear Force Constant: A Delicate Balance for Life and the Cosmos](https://github.com/aw-junaid/Quantum-Mechanics/blob/main/General%20Research/articles/The%20Weak%20Nuclear%20Force%20Constant%3A%20A%20Delicate%20Balance%20for%20Life%20and%20the%20Cosmos.md)
+- 
