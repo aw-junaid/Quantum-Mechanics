@@ -1,5 +1,3 @@
-### **The Weak Nuclear Force Constant: A Delicate Balance for Life and the Cosmos**
-
 The **weak nuclear force** (governed by the **Fermi constant, $$\( G_F \approx 1.166 \times 10^{-5} \, \text{GeV}^{-2} \)$$**) is one of the four fundamental forces, responsible for:  
 - **Nuclear beta decay** (e.g., neutrons → protons + electrons + neutrinos)  
 - **Stellar fusion** (e.g., proton-proton chain in the Sun)  
